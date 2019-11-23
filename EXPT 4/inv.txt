@@ -1,0 +1,6 @@
+Asset no=1
+Asset name=shr
+Asset price=100.00
+Asset no=2
+Asset name=vru
+Asset price=101.00
